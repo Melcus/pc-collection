@@ -1,0 +1,21 @@
+_id: req_3c34eed221194203b7c4675114bb3133
+type: Request
+parentId: wrk_39a29dce061e4f628ab81f625d708360
+modified: 1660570947589
+created: 1660569941891
+url: htts://google.com
+name: Google demo
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1660569941891
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
